@@ -1,6 +1,7 @@
 dependencies:
   - python=2.7.*
   - gdb
+  - sudo
   - pip:
     - nteract_on_jupyter==1.8.1
     - colorama==0.3.9
